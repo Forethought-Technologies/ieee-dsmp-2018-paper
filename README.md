@@ -7,7 +7,3 @@ Datasets:
 * chromium.csv - dataset of Chromium bugs.
 
 Both datasets are tab-separated with first row being a header.
-
-Code:
-
-Will be added later.
